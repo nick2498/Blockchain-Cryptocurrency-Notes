@@ -1,0 +1,183 @@
+Q. What is blockchain?
+- Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+- A blockchain is essentially a digital ledger(record or account book) of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+Q. Overview of blockchain?
+- Blockchain is a decentralized ledger of all transactions across a peer-to-peer network.
+- Blockchain is a technology that enables Bitcoin and is also applied to many business processes.
+- Blockchain not only performs transactions but also ensures anonymity(anonymous) and security of the users.
+
+Q. History of blockchain?
+- (1990) The concept of distributed ledgers has been around since 1990.
+- (2009) Satoshi Nakamoto created Bitcoin and introduced the concept of Blockchain.
+- (2011-2012) Cryptocurrency deployment in applications.
+- (2012-2013) Currency transfer and digital payment system.
+- (2013-2014) Financial markets and applications started using Blockchain beyond cash transactions.
+- (2014-2015) Evolution of smart contracts.
+- (2015-2016) Permissioned Blockchain network solution.
+- (2016-2017) Market development and exploration across industries.
+
+# Blockchain in Banking System:
+@ Issues in Banking System:
+1. High transaction cost
+2. Account hacking
+3. Net frauds
+4. Financial Crisis
+
+@ Blockchain solution for the issues:
+1. Decentralized System
+2. Distributed Ledger
+3. Incentives of Validation
+4. Consensus(a general agreement) Algorithm
+5. Cryptography(art of writing or solving codes) Algorithm
+
+# Blockchain Transaction Process:
+1. Transaction is requested
+2. Transaction is broadcasted
+3. Transaction is validated by the Minter
+4. Transaction becomes a part of the new block created
+5. New block is added to the Blockchain
+6. Transaction is now completed
+
+# Steps of Blockchain Transaction:
+- Blockchain transaction works by implementing one of the following features in each step:
+1. Cryptography Algorithm
+2. Decentralized Network
+3. Consensus Mechanism
+4. Distributed Ledger
+
+# Features of Blockchain:
+1. Cryptography: 
+- Plaintext(Readable format Non-encrypted data)
+- Encryption
+- Ciphertext(Non-readable format Encrypted data)
+- Decryption
+- Plaintext(Readable format Non-encrypted data)
+
+- There are two kinds of Cryptography:
+1. Asymmetric Key Cryptography:
+- Asymmetric key cryptography uses two kinds of keys public key and private key.
+- Plain text -> Encrypts message using public key -> Cipher text -> Decrypts message using private key -> Plain text
+
+2. Symmetric Key Cryptography:
+- Symmetric key cryptography uses only one key which is the secret key used for both encryption and decryption.
+- Plain text -> Encrypt message using the same key -> Cipher text -> Decrypt message using the same key -> Plain text
+
+Q. What is Digital Signature?
+- Public Key + Private Key = Digital Signature
+- A digital signature provides authentication and validation like normal signatures.
+- It ensures the security and integrity of data recorded on the Blockchain.
+- It uses asymmetric cryptography in which information can be shared using a public key.
+- Primary keys are linked to users providing digital signatures a quality of nonrepudiation. 
+
+# Consensus Protocol:
+- It is a fault-tolerant protocol that is used to achieve the necessary agreement on a single data value or a single state of network.
+- It is a set of rules that decides on the contribution of the various participants of the Blockchain.
+- It ensures that all transactions occuring on the network are genuine and all participants agree on the consensus of the ledger.
+
+# Features of Consensus Protocol:
+- Efficient 
+- Secure
+- Real-time
+- Reliable
+- Functional 
+
+# Blockchain Block Structure:
+- Header: Contains version information, nonce, previous block id, and timestamp.
+- Merkle: Is a hash built from the block's transaction identifiers.
+- List of records: Is an identification of hashes that were included into the block's Merkle tree.
+
+# Blockchain Identifiers:
+1. Block Header:
+- Primary identifier of a block
+- Digital fingerprint, twice the size of a block header
+- Unique identification of a block of 32-byte hash
+
+2. Block Height:
+- Position of the block in Blockchain
+- The first block is of height 0
+- Each node dynamically identifies a block
+
+# Blockchain Merkle Tree:
+- Data structure used for summarizing and verifying the integrity of large sets of data.
+- It is also known as Binary Hash Tree.
+
+# Advantages of Merkle Tree:
+- Integrity
+- Less memory required
+- Proofs are computed quickly and easily
+- Provides validation of data
+- Less information required
+
+# Distributed Ledger:
+- Ledgers store the copy of transactions that have taken place. Every single person of the network has a copy of the ledger.
+- Example:
+> John = 3 BTC (John has 3 BTC)
+> John => Kat 3 BTC (John gives 3 BTC to Kat)
+> Kat => Peter 2 BTC (Kat gives 2 BTC to Peter)
+> Peter => Susan 1 BTC (Peter gives 1 BTC to Susan)
+- They will all have a similar copy of these transactions.
+
+# Evolution of Ledgers:
+- Clay tablets > Papyrus > Tally sticks > Double entry book keeping > Spreadsheets > Distributed ledger
+
+# Features of Blockchain in Transaction Process:
+- Cryptographic Algorithm > Decentralized System > Validation by Miner > Block Creation > Proof of Work > Distributed Ledger
+
+# Types of Blockchain: 
+1. Public:
+- Bitcoin > Ethereum > Dash > Factom
+- Ledgers are publicly available to verify or add blocks to the Blockchain.
+- Public Blockchains can receive and send transactions to anybody in the world.
+- They can be audited by anyone and every node on the network has the same amount of transmission power.
+
+2. Private: 
+- Only authorized users can add or verify the blocks, but anyone can view it.
+- A private Blockchain is a closed network that offers its participants the benefit of the technology.
+- Example of private Blockchain: MultiChain, Blockstack.
+
+3. Consortium:
+- Only a predefined set of nodes has permission to write the block, since it is a semi-centralized Blockchain.
+- Example of consortium nodes in the Blockchain world are: Hyperledger 1.0, R3, Ripple.
+
+# Blockchain Platforms:
+- ethereum [Largest cryptocurrency after Bitcoin]
+- r3 [Distributed ledger-based platform]
+- ripple [Cross-border payments]
+- Chain [Blockchain-based cloud infrastructure]
+@ Other Blockchain Platforms:
+- Hyperledger [Consortium network for enterprise Blockchain applications]
+- IOTA [Backs nano payments]
+- openchain [Open source, enterprise-ready Blockchain platform]
+- Quorum [Majority voting consensus mechanism]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

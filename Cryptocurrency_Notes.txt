@@ -1,0 +1,54 @@
+Q. What is cryptocurrency?
+- A cryptocurrency is a digital or virtual currency that is meant to be a medium of exchange.
+
+# Features of cryptocurrency:
+- There's a limit to how many units can exist
+(with Bitcoin this limit exists at 21 million after this no more Bitcoins will be produced)
+- Easily verifies the transfer of funds
+- Operating independent of a bank
+- Allows new units to be added only after certain conditions are met 
+
+Q. What makes cryptocurrencies special?
+- Little to no transaction costs
+- 24/7 access to money 
+- No limit on purchases and withdrawals
+- Freedom for anyone to use
+- International transactions are faster
+
+Q. What's the 'Crypto' in Cryptocurrencies?
+- Cryptography is a method of using encryption and decryption to secure communication in the presence of third parties with ill intent.
+- Cryptography usually requires a computational algorithm (like SHA256), a public key (that the user shares with everyone) and a private key (which acts like a digital signature of the user)
+
+@ A normal bitcoin transaction:
+- Transaction details > SHA256 > Passed through a signature algorithm with the user's private key > Digitally signed output > Distributing the output across the network with sender's public key > Verification and being added to a block
+
+@ There are two major cryptocurrencies (among the many) in the market: Bitcoin and Ether
+- Bitcoin is a form of digital currency and is decentralized without a central bank. It uses blockchain to perform transactions on a peer-to-peer network.
+- Ether is a currency that's accepted in the Ethereum network. Ethereum works on blockchain technology to create an open source platform to build and deploy decentralized applications.
+
+Q. Difference between Bitcoin and Ether?
+# Bitcoin:
+- It is used to send money to someone.
+- Bitcoin transactions are manual.
+- It takes 10 minutes to perform a transaction.(slow)
+- It is used like money, for real world transactions.
+- There's a limit to how many bitcoins can exist: 21,000,000.
+- Used for transactions involving goods and services.
+- It uses an algorithm known as SHA256 for hashing(which is a process of obtaining the address of block).
+- "SHA256 has 64 hexadecimal characters. Each character is of 4 bits. So in total it has 64*4 bits i.e. 256 bits."
+- "1 byte = 8 bit"
+
+# Ether:
+- It is used as a currency in the Ethereum network.
+- Transactions are manual or automatic.
+- It takes about 20 seconds to finish a transaction.(fast)
+- Ether is used to power the Ethereum network and power real life transactions. 
+- Ether is expected to be continuous but not expected to exceed 100,000,000.
+- Uses blockchain to create a ledger that triggers a transaction when a condition is met.
+- Ethereum uses the ethash algorithm for hashing.
+
+Q. What's the future of cryptocurrency?
+- Conflict between regulation and anonymity.
+- Futurists believe by 2030, cryptocurrencies would occupy 25% of national currencies.
+- Increased acceptance by merchants and customers.
+- It will continue to have a volatile nature.
