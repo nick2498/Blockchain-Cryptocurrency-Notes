@@ -1,3 +1,5 @@
+⭐ Overview of Blockchain ⭐
+
 Q. What is blockchain?
 - Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
 - A blockchain is essentially a digital ledger(record or account book) of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
@@ -171,10 +173,19 @@ Q. What is Digital Signature?
 2. One-to-One:
 - Used for applications which involve financial contracts between two entities.
 
+⭐ Bitcoin Blockchain ⭐
 
+# Introduction to Bitcoin:
+- Bitcoin was the first digital currency that facilitated instant transfer of value across the world. 
+- Bitcoins cannot be printed.
+- Bitcoins are created by the computers all around the world and are held electronically.
 
+# There are two major operations in a bitcoin system:
+1. Transaction Management: transferring the coins from one address to another
+2. Currency generation: regulating the monetary value
 
-
+# Best Bitcoin Exchanges:
+- Coinbase - SpectroCoin - Indacoin - Kraken - LocalBitcoins
 
 
 
