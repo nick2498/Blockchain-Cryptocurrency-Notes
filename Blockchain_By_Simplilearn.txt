@@ -187,11 +187,35 @@ Q. What is Digital Signature?
 # Best Bitcoin Exchanges:
 - Coinbase - SpectroCoin - Indacoin - Kraken - LocalBitcoins
 
+# Bitcoin Wallets:
+- Bitcoin wallets are digital wallets where private keys are used to access the Bitcoin address and signature for transactions.
+- Bitcoins are not stored anywhere.
+- There is a private key matched to every Bitcoin address which can be saved in the Bitcoin wallet of the person who owns the Bitcoins.
 
+# Types of Bitcoin Wallets:
+1. Software Wallets:
+- Software wallets are installed on your computer to store your private keys.
 
+2. Web Wallets:
+- Online wallets are convenient, because you can access your funds from any device.
 
+3. Hardware Wallets:
+- Hardware wallets are used to store private keys on storage device such as USB drives.
 
+4. Brain Wallets:
+- A brain wallet refers to the concept of storing Bitcoins in one's own mind by memorizing a seed phrase.
 
+5. Mobile Wallets:
+- Mobile wallets run as apps storing your private keys to pay directly from your phone.
+
+# Best Bitcoin Wallets:
+1. Software Wallets: Armory, Bitcoin Core, MultiBit HD
+
+2. Web Wallets: Coinbase, Blockchain, Circle
+
+3. Hardware Wallets: Ledger, Trezor, Opendime
+
+4. Mobile Wallets: Breadwallet, Mycelium, Bitcoin Wallet
 
 
 
