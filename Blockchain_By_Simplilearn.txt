@@ -236,9 +236,15 @@ Q. What is Digital Signature?
 - Each instruction is of one byte.
 - Opcodes have the following: constants, flow control, stack, bitwise logic, arithmetic, crypto, locktime, pseudo-words, and reserved words.
 
+# Bitcoin Network:
+- Bitcoin is an ad hoc network with random topology.
+- The protocol runs on TCP 8333.
+- All the nodes are treated equally in Bitcoin network.
+- New nodes can join the network anytime, and the nonresponsive nodes are removed after 3 hours.
 
-
-
+# Bitcoin Network Node:
+- A full Bitcoin node is a collection of four functions:
+1. Wallet 2. Miner 3. Full Blockchain 4. Network routing node
 
 
 
