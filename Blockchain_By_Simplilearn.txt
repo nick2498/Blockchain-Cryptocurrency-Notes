@@ -246,7 +246,13 @@ Q. What is Digital Signature?
 - A full Bitcoin node is a collection of four functions:
 1. Wallet 2. Miner 3. Full Blockchain 4. Network routing node
 
-
+# Bitcoin Mining Process:
+- Bitcoins are created by the process od mining.
+- Following are the steps in Bitcoin mining:
+1. Autonomous check of every transaction
+2. Independent aggregation of transactions into new blocks
+3. Independent confirmation of new blocks by each node
+4. Independent selection by every node of the chain with the most cumulative computation
 
 
 
