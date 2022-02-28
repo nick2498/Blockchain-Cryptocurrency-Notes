@@ -229,7 +229,12 @@ Q. What is Digital Signature?
 2. Amount: This is the amount of Bitcoins that the sender sends to the receiver.
 3. Output: This is send to the sender's address as change. 
 
-
+# Bitcoin Script Instructions:
+- A script is really a list of instructions which is recorded with each transaction.
+- Bitcoin scripting language is small.
+- It consists of 256 opcodes out of which 15 are disabled and 75 are reserved.
+- Each instruction is of one byte.
+- Opcodes have the following: constants, flow control, stack, bitwise logic, arithmetic, crypto, locktime, pseudo-words, and reserved words.
 
 
 
