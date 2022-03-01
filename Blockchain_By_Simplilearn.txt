@@ -271,3 +271,22 @@ Q. What is Digital Signature?
 - Gas is the fundamental block of Ethereum ecosystem that is paid for every operation performed on Ethereum Blockchain.
 - Gas is the crypto fuel for Ethereum. It can be considered a transaction fee which has to be paid when one party sends Ethers to another party.
 - 'doMath' function is used to calculate the gas [Gas Limit * Gas Price]. 
+
+# Ether:
+- Ether is a necessary element needed for operating the Ethereum platform.
+- It is an incentive that the client of the platform pays to execute requested operations.
+- It ensures that the developers write error-free codes, because unnecessary codes will increase the cost.
+- It is the crypto-fuel for the Ethereum network.
+
+# Difference between Bitcoin and Ether:
+> Bitcoin:
+- Uses secure hash algorithm(SHA-256).
+- Used for purchasing goods and services.
+- A currency created to compete against the gold and flat currencies.
+- Transaction speed is measured in minutes.
+
+> Ether:
+- Uses ethash algorithm.
+- Used for making decentralized apps.
+- A token created for facilitating smart contracts.
+- Transaction speed is measured in seconds.
