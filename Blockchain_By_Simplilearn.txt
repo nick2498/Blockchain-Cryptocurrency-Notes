@@ -290,3 +290,14 @@ Q. What is Digital Signature?
 - Used for making decentralized apps.
 - A token created for facilitating smart contracts.
 - Transaction speed is measured in seconds.
+
+# Ethereum Virtual Machine (EVM):
+- Ethereum Virtual Machine (EVM) is an engine which executes translation code.
+- Smart contracts are compiled into bytecode which an EVM can read and execute.
+- Ethereum possesses its own programming language known as the EVM Bytecode. 
+- The Ethereum Virtual Machine uses a set of instructions, called opcodes, to execute specific tasks.
+
+# Ethereum Languages:
+- Contracts are compiled into EVM bytecode and deployed to Ethereum Blockchain for execution.
+- Ethereum languages are:
+1.Solidity 2.LLL 3.Vyper 4.Serpent 5.Mutan 6.Julia 
