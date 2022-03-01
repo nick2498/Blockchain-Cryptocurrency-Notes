@@ -266,3 +266,8 @@ Q. What is Digital Signature?
 - Asset Issuance
 - Fast 
 - Uncensored 
+
+# Gas in Ethereum:
+- Gas is the fundamental block of Ethereum ecosystem that is paid for every operation performed on Ethereum Blockchain.
+- Gas is the crypto fuel for Ethereum. It can be considered a transaction fee which has to be paid when one party sends Ethers to another party.
+- 'doMath' function is used to calculate the gas [Gas Limit * Gas Price]. 
