@@ -254,5 +254,15 @@ Q. What is Digital Signature?
 3. Independent confirmation of new blocks by each node
 4. Independent selection by every node of the chain with the most cumulative computation
 
+⭐ Ethereum ⭐
 
+# Ethereum:
+- Ethereum is a decentralized platform that runs the smart contracts without any downtime, fraud, and third-party interference and also has its own cryptocurrency called Ether.
 
+# Features of Ethereum:
+- Secured
+- Community Support
+- Corporate Friendly
+- Asset Issuance
+- Fast 
+- Uncensored 
