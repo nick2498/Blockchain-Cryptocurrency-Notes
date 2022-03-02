@@ -380,5 +380,10 @@ Q. What is Digital Signature?
 - Files are split into pieces and are stored in the nodes of the network.
 - Accounting protocol is used by the peers.
 
-7. IPFS
+7. IPFS (InterPlanetary File System):
+- IPFS is a decentralized storage system that is not related directly to Ethereum but can be integrated with it.
+- IPFS stores data by use of a Distributed Hash Table.
+- The data transfer between the nodes in the network uses a mechanism which is similar to the one used in BitTorrent.
+- IPFS provides a versioned file system capable of storing files and tracking versions over time.
+
 8. Whisper
