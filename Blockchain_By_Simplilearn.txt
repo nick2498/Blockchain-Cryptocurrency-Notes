@@ -386,4 +386,11 @@ Q. What is Digital Signature?
 - The data transfer between the nodes in the network uses a mechanism which is similar to the one used in BitTorrent.
 - IPFS provides a versioned file system capable of storing files and tracking versions over time.
 
-8. Whisper
+8. Whisper:
+- Whisper is an identity-based communication protocol for dApps to interact with each other.
+
+> Drawbacks in Whisper:
+- Low-level API
+- Low bandwidth
+- Uncertain latency
+- Unreliable for tracing packets
