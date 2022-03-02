@@ -342,3 +342,37 @@ Q. What is Digital Signature?
 - A trigger event like an expiration date or a strike price is hit, and the contract executes itself according to the coded terms.
 - Regulators can use the Blockchain to understand the activities in the market while maintaining the privacy of an individual's position.
 
+# Types of Ethereum Tools:
+1. Geth:
+- Multipurpose command-line tool that runs an Ethereum node implemented in Go.
+
+2. Ganache:
+- Ganache CLI is a fast and customizable Blockchain emulator which allows to make calls to Blockchain without running the actual Ethereum node.
+
+> Properties of Ganache:
+- Transactions are mined instantly.
+- No transaction cost.
+- Accounts can be recycled, reset, and instantiated with a fixed amount of Ether without the need for faucets or mining.
+- Gas price and mining speed can be modified.
+- A convenient GUI gives you an overview of your testchain events.
+
+3. Parity:
+- The fastest, lightest, and most secure Ethereum client that provides the core infrastructure essentials for quick and reliable services.
+- Parity is written in Rust language.
+- It is an Ethereum client that is integrated directly into your web browser.
+- Parity serves as an Ethereum GUI browser.
+- Parity provides access to a diverse range of Ethereum features including dApps.
+
+4. MetaMask:
+- MetaMask turns Google Chrome into a browser that allows the users to send and receive transactions and also to fetch data from the Blockchain.
+
+5. Mist Wallet:
+- End-user interface for Ethereum that is developed for browsing and using dApps.
+- Mist is an official Ethereum wallet.
+- It was developed and distributed by the team, which is responsible for the management of Ethereum ecosystem.
+- It is used by developers who want to create, deploy, and use smart contracts.
+- It is a full node wallet, which means, you'll have to download the entire Ethereum Blockchain onto your computer.
+
+6. Swarm
+7. IPFS
+8. Whisper
