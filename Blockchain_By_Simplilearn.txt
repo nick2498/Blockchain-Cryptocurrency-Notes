@@ -373,6 +373,12 @@ Q. What is Digital Signature?
 - It is used by developers who want to create, deploy, and use smart contracts.
 - It is a full node wallet, which means, you'll have to download the entire Ethereum Blockchain onto your computer.
 
-6. Swarm
+6. Swarm:
+- Swarm is a platform which supports distributed storage and provides content distribution services. 
+- It provides sufficient decentralization and redundant storage of Ethereum records to distribute Blockchain data as well as dApp codes.
+- Leverages the underlying Ethereum infrastructure.
+- Files are split into pieces and are stored in the nodes of the network.
+- Accounting protocol is used by the peers.
+
 7. IPFS
 8. Whisper
