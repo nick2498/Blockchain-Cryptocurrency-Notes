@@ -301,3 +301,44 @@ Q. What is Digital Signature?
 - Contracts are compiled into EVM bytecode and deployed to Ethereum Blockchain for execution.
 - Ethereum languages are:
 1.Solidity 2.LLL 3.Vyper 4.Serpent 5.Mutan 6.Julia 
+
+# Types of Ethereum Accounts:
+
+# Externally Owned Accounts (EOA):
+- EOA is an account controlled by a private key that has the ability to send Ethers and messages from the account.
+
+> Properties of EOA:
+- It has an Ether balance
+- It can send transactions
+- It is controlled by private keys
+- It has no associated code
+
+# Smart Contract:
+- A smart contract is a code running on top of the Blockchain.
+- It contains the set of rules for the nodes to agree upon so that they interact with each other.
+
+> Properties of Smart Contract:
+- It has an Ether balance
+- It has an associated code
+- It is triggered by transactions or messages
+- It performs operations of arbitrary complexity
+
+> Advantages of Smart Contract are as follows:
+- It is the simplest form of decentralization
+- Has higher degree of security
+- Eliminates the need for a third-party
+- Provides automatic agreement enforcement
+- Turns legal obligations into automated processes
+- Lowers transaction cost
+
+> Characteristics of Smart Contract:
+- Self-verifying
+- Self-executing
+- Cost Saving 
+- Temper Resistant
+
+> Process of Smart Contracts:
+- An optional contract between the parties is written as a code in the Blockchain. The individuals involved are anonymous, but the contract is made through a public ledger.
+- A trigger event like an expiration date or a strike price is hit, and the contract executes itself according to the coded terms.
+- Regulators can use the Blockchain to understand the activities in the market while maintaining the privacy of an individual's position.
+
