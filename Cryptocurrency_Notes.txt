@@ -52,3 +52,31 @@ Q. What's the future of cryptocurrency?
 - Futurists believe by 2030, cryptocurrencies would occupy 25% of national currencies.
 - Increased acceptance by merchants and customers.
 - It will continue to have a volatile nature.
+
+# Ethereum DAPPs and DAOs:
+# Decentralized Application (DAPP):
+- Decentralized application is an application that is used on networks with trustless protocols to avoid a single point of failure.
+- They run on peer-to-peer computer network.
+- DAPPs are open source.
+> Properties of DAPPs are as follows:
+- Uses Ethereum as a development platform
+- Uses cryptographically encoded blocks
+- Not governed by a central server
+- There is no master copy of Dapp
+
+# Advantages of Ethereum DAPPs:
+- Improved stability 
+- Higher reliability
+- Automatic credentials assigned through smart contracts
+- No downtime
+- No third-party intervention
+- Privacy and security
+
+# Examples of DAPPs:
+- WeiFund - STORJ.IO - KYC-CHAIN - 4G CAPITAL
+
+# Decentralized Autonomous Organization (DAO):
+- DAOs are organizations designed to hold assets and use the voting system to distribute them.
+- DAOs exist entirely on Blockchain and are governed by the consensus protocols. 
+- They show the potential of blockchain to revolutionize human social institutions called DAOs.
+- It is an organization run by rules agreed through a consensus process among its members.
