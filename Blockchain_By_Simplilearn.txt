@@ -424,3 +424,9 @@ Q. What is Digital Signature?
 
 # Types of Network:
 - MainNet - TestNet - Private Network
+
+⭐ Deploying Smart Contracts on Private Ethereum Network ⭐
+
+# Smart Contract Life Cycle:
+- Solidity code is compiled to a bytecode and is deployed to the network of nodes. Deployed code can be interacted by calling functions using the contract's address.
+- Solidity Code > Compile (ABI Bytecode) > Deploy (Address) > Interact (Functions Events)
