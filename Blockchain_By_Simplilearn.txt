@@ -394,3 +394,33 @@ Q. What is Digital Signature?
 - Low bandwidth
 - Uncertain latency
 - Unreliable for tracing packets
+
+# Ethereum Frameworks:
+# Types of Frameworks:
+1. Web3.js:
+- Web3.js is a set of libraries which permit one to interact with a remote or local Ethereum node.
+- Web3.js is the key connection between Ethereum network and Dapp that allows to compile, deploy, and interact with smart contracts. 
+
+2. Eth.js:
+- A highly optimized, lightweight JS utility for Ethereum based on web.js.
+- All the unnecessary characters are removed from the source code, and the code is reduced to 160 KB.
+
+# Ethereum Development Environment:
+1. Remix IDE:
+- A browser-based compiler and IDE that enables users to debug transactions and build Ethereum contracts with Solidity language.
+
+2. Truffle:
+- Truffle is a development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine(EVM).
+
+3. Embark:
+- An environment that allows you to easily develop and deploy decentralized applications.
+- Embark performs following functions:
+1. Performs automatic deployment of contracts
+2. Keeps track of deployed contracts
+3. Easily manages complex systems of interdependent contracts
+4. Performs test driven deployment with contracts using JavaScript
+5. Manages different chains like testnet, private net, and livenet
+6. Redeploys the contracts if any changes are done
+
+# Types of Network:
+- MainNet - TestNet - Private Network
